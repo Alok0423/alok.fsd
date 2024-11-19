@@ -1,2 +1,1 @@
-# alok.fsd
 hello
